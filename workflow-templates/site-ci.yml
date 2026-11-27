@@ -19,4 +19,4 @@ jobs:
     name: Site CI
     permissions:
       contents: read
-    uses: kibanbuild/.github/.github/workflows/reusable-site-ci.yml@500ee4080e5090a6d6feac6d4d38fca2ca922db5 # main
+    uses: cesararroba/.github/.github/workflows/reusable-site-ci.yml@22cb2bbd9257c85ecd16857ad02c6beebdcad5d3 # v1.0.0
